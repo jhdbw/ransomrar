@@ -21,5 +21,4 @@ set target=%HOMEPATH%\ransomrar
 The computer must have WinRAR installed.
 
 ### Video
-<a href="https://www.youtube.com/watch?v=ZqzmWpSU6g4" target="_blank"><img src="http://img.youtube.com/vi/ZqzmWpSU6g4/0.jpg" 
-alt="RANSOMRAR" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=ZqzmWpSU6g4" target="_blank"><img src="http://img.youtube.com/vi/ZqzmWpSU6g4/0.jpg" alt="RANSOMRAR" width="240" height="180" border="10" target="_blank"/></a>
